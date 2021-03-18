@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "85IdeXBmvY9XmqZGhPwwsJoBE22vygGHRnXuhzQJ4zGrZc0/tEFGL5sKEEYsiu3Q3QIHWkNhsN0Ck7Pu0JhRQw==",
+  "success": true,
+  "projectFilePath": "/Users/leonardodottavi/Projects/tryChannel/tryChannel/tryChannel.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardodottavi/.nuget/packages/system.threading.channels/4.7.0/system.threading.channels.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

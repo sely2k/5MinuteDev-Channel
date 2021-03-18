@@ -1,0 +1,12 @@
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/bin/Debug/netcoreapp3.1/tryChannel.deps.json
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/bin/Debug/netcoreapp3.1/tryChannel.runtimeconfig.json
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/bin/Debug/netcoreapp3.1/tryChannel.runtimeconfig.dev.json
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/bin/Debug/netcoreapp3.1/tryChannel.dll
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/bin/Debug/netcoreapp3.1/tryChannel.pdb
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.csprojAssemblyReference.cache
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.csproj.CoreCompileInputs.cache
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.AssemblyInfoInputs.cache
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.AssemblyInfo.cs
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.dll
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.pdb
+/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/Debug/netcoreapp3.1/tryChannel.genruntimeconfig.cache

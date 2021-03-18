@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonardodottavi/Projects/tryChannel/tryChannel/tryChannel.csproj": {}
+  },
+  "projects": {
+    "/Users/leonardodottavi/Projects/tryChannel/tryChannel/tryChannel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardodottavi/Projects/tryChannel/tryChannel/tryChannel.csproj",
+        "projectName": "tryChannel",
+        "projectPath": "/Users/leonardodottavi/Projects/tryChannel/tryChannel/tryChannel.csproj",
+        "packagesPath": "/Users/leonardodottavi/.nuget/packages/",
+        "outputPath": "/Users/leonardodottavi/Projects/tryChannel/tryChannel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonardodottavi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Threading.Channels": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
